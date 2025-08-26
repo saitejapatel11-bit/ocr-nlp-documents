@@ -1,0 +1,7 @@
+ocr-nlp-documents/
+│── data/                 # Sample scanned docs (dummy PDFs/images)
+│── src/
+│   ├── ocr_engine.py
+│   ├── nlp_extractor.py
+│── requirements.txt
+│── README.md
